@@ -11,3 +11,7 @@ To start the local environment are given in the steps below
 * source env/bin/activate 
 * pip install -r requirements (for python 2.7)/ pip3 install -r requirements
 * scrapy crawl quotes
+
+![result](<https://github.com/ravimaharjan/scrape-quotes/blob/assets/result.png>)
+
+
